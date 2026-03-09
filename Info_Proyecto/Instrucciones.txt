@@ -1,0 +1,113 @@
+-Folio en blanco
+-El proyecto se tiene que centrar en un EDA y Dashboard de un conjunto de datos a tu elección.
+-En este proyecto deberás cubrir los siguientes puntos:
+
+● Transformación y limpieza profunda de los datos.
+
+● Análisis descriptivo de los datos.
+
+● Análisis estadístico de los datos.
+
+● Visualización de los datos.
+
+● Dashboard operativo.
+
+● Informe explicativo del análisis.
+
+Herramientas para realizar el proyecto.
+
+Tendrás que realizar el proyecto usando estás herramientas y librerías:
+
+● EDA y análisis de los datos:
+
+○ Python
+
+○ Pandas
+
+○ Visual Studio Code
+
+● Dashboard y visualización de los datos. Puedes elegir hacerlo con alguna de estas herramientas:
+
+○ Excel
+
+○ Google Sheets
+
+○ Power BI
+
+Los datos:
+
+Los datos con los que vas a trabajar son de carácter libre pero deben de cubrir todos los requisitos del proyecto de manera clara. Os dejamos algunos links para acceder a distintos conjuntos de datos que podéis usar en vuestro análisis:
+
+
+
+● https://www.kaggle.com/
+
+● https://datasetsearch.research.google.com/
+
+● https://registry.opendata.aws/
+
+● https://data.gov/
+
+● https://data.europa.eu/data/datasets?is_hvd=true&locale=en
+
+● https://www.ine.es/
+
+
+
+Estos links son orientativos, puedes usar otras fuentes para extraer tus datos.
+
+El proyecto final, publicado en un repositorio de GitHub, debe contar con los siguientes requisitos:
+
+● Dos conjuntos de datos en bruto.
+
+● Un conjunto de datos final sobre el que hayas hecho las transformaciones que estimes necesarias.
+
+● Un análisis exhaustivo del conjunto de datos final
+
+● Un dashboard operativo de los datos finales que aporte valor al análisis realizado.
+
+● Un informe del análisis realizado.
+
+● Archivo README.md, que recoja los pasos seguidos durante el proyecto y el informe de tú análisis. Os dejamos una guía de cómo escribir un buen Readme aquí.
+
+● Tu repositorio debe contar con una buena organización y sistema de carpetas.
+
+
+
+Requisitos mínimos del proyecto:
+
+El proyecto final, publicado en un repositorio de GitHub, debe contar con los siguientes requisitos:
+
+● Dos conjuntos de datos en bruto.
+
+● Un conjunto de datos final sobre el que hayas hecho las transformaciones que estimes necesarias.
+
+● Un análisis exhaustivo del conjunto de datos final
+
+● Un dashboard operativo de los datos finales que aporte valor al análisis realizado.
+
+● Un informe del análisis realizado.
+
+● Archivo README.md, que recoja los pasos seguidos durante el proyecto y el informe de tú análisis. Os dejamos una guía de cómo escribir un buen Readme aquí.
+
+● Tu repositorio debe contar con una buena organización y sistema de carpetas.
+
+El conjunto de datos que elijas tiene que cumplir estos requisitos mínimos:
+
+● Debes tener mínimo dos conjuntos de datos(excel, csv, bbdd de SQL) que provengan de dos fuentes distintas que deberás unir para trabajar de forma conjunta. Estos datos iniciales deberás adjuntarlos en tu repositorio.
+
+● El conjunto de datos final, después de unir las dos fuentes, debe tener una extensión mínima de 50.000 filas y 20 columnas.
+
+● Los datos que elijas tienen que permitirte cubrir los requisitos del proyecto: hacer limpieza y transformación de los mismos, hacer análisis estadísticos, hacer un dashboard que aporte valor, etc.
+
+Consejos:
+
+● Prioriza cumplir primero con los requisitos mínimos del proyecto y si lo consideras necesario, agrega pasos adicionales más adelante.
+
+● Asegúrate de que el proyecto te esté ayudando a aprender. Si sientes que no estás adquiriendo nuevos conocimientos, probablemente puedas profundizar más.
+
+● Dedícale tiempo y trátalo como un caso real: cuida la presentación, realiza análisis significativos y no te quedes en la superficie.
+
+● Te recomendamos que antes de realizar este proyecto completes los contenidos opcionales del curso, especialmente los proyectos en directo, donde seguimos los pasos para crear el repositorio, el sistema de carpetas, la organización del repositorio, etc.
+
+● ¡Disfruta del proceso y acepta que la frustración es parte del aprendizaje!
