@@ -1,105 +1,105 @@
-poblacion,source,valor,cod_provincia
-Albacete,Empresas,26743,02
-Alicante/Alacant,Empresas,138964,03
-Almería,Empresas,42931,04
-Araba/Álava,Empresas,19147,01
-Asturias,Empresas,68688,33
-Ávila,Empresas,10170,05
-Badajoz,Empresas,41490,06
-"Balears, Illes",Empresas,96638,07
-Barcelona,Empresas,468777,08
-Bizkaia,Empresas,75628,48
-Burgos,Empresas,26031,09
-Cáceres,Empresas,25389,10
-Cádiz,Empresas,60690,11
-Cantabria,Empresas,38522,39
-Castellón/Castelló,Empresas,39799,12
-Ciudad Real,Empresas,30588,13
-Córdoba,Empresas,47209,14
-"Coruña, A",Empresas,83313,15
-Cuenca,Empresas,13655,16
-Gipuzkoa,Empresas,49582,20
-Girona,Empresas,62984,17
-Granada,Empresas,59115,18
-Guadalajara,Empresas,13368,19
-Huelva,Empresas,24668,21
-Huesca,Empresas,16503,22
-Jaén,Empresas,34030,23
-León,Empresas,31276,24
-Lleida,Empresas,33684,25
-Lugo,Empresas,24760,27
-Madrid,Empresas,538917,28
-Málaga,Empresas,123109,29
-Murcia,Empresas,95544,30
-Navarra,Empresas,44289,31
-Ourense,Empresas,23291,32
-Palencia,Empresas,10024,34
-"Palmas, Las",Empresas,75753,35
-Pontevedra,Empresas,69437,36
-"Rioja, La",Empresas,23197,26
-Salamanca,Empresas,22373,37
-Santa Cruz de Tenerife,Empresas,70373,38
-Segovia,Empresas,10793,40
-Sevilla,Empresas,117385,41
-Soria,Empresas,5689,42
-Tarragona,Empresas,52921,43
-Teruel,Empresas,9345,44
-Toledo,Empresas,43289,45
-Valencia/València,Empresas,177717,46
-Valladolid,Empresas,33998,47
-Zamora,Empresas,11632,49
-Zaragoza,Empresas,65645,50
-Ceuta,Empresas,3916,51
-Melilla,Empresas,4667,52
-Albacete,Poblacion,388786,02
-Alicante/Alacant,Poblacion,1838819,03
-Almería,Poblacion,709340,04
-Araba/Álava,Poblacion,328868,01
-Asturias,Poblacion,1028244,33
-Ávila,Poblacion,158498,05
-Badajoz,Poblacion,676376,06
-"Balears, Illes",Poblacion,1128908,07
-Barcelona,Poblacion,5609350,08
-Bizkaia,Poblacion,1149628,48
-Burgos,Poblacion,357070,09
-Cáceres,Poblacion,396487,10
-Cádiz,Poblacion,1238714,11
-Cantabria,Poblacion,580229,39
-Castellón/Castelló,Poblacion,576898,12
-Ciudad Real,Poblacion,499100,13
-Córdoba,Poblacion,785240,14
-"Coruña, A",Poblacion,1119351,15
-Cuenca,Poblacion,197222,16
-Gipuzkoa,Poblacion,720592,20
-Girona,Poblacion,761947,17
-Granada,Poblacion,912075,18
-Guadalajara,Poblacion,254308,19
-Huelva,Poblacion,519932,21
-Huesca,Poblacion,219345,22
-Jaén,Poblacion,638099,23
-León,Poblacion,463746,24
-Lleida,Poblacion,432866,25
-Lugo,Poblacion,331327,27
-Madrid,Poblacion,6578079,28
-Málaga,Poblacion,1641121,29
-Murcia,Poblacion,1478509,30
-Navarra,Poblacion,647554,31
-Ourense,Poblacion,309293,32
-Palencia,Poblacion,162035,34
-"Palmas, Las",Poblacion,1109175,35
-Pontevedra,Poblacion,941772,36
-"Rioja, La",Poblacion,315675,26
-Salamanca,Poblacion,331473,37
-Santa Cruz de Tenerife,Poblacion,1018510,38
-Segovia,Poblacion,153342,40
-Sevilla,Poblacion,1939887,41
-Soria,Poblacion,88600,42
-Tarragona,Poblacion,795902,43
-Teruel,Poblacion,134572,44
-Toledo,Poblacion,687391,45
-Valencia/València,Poblacion,2547986,46
-Valladolid,Poblacion,519851,47
-Zamora,Poblacion,174549,49
-Zaragoza,Poblacion,954811,50
-Ceuta,Poblacion,85144,51
-Melilla,Poblacion,86384,52
+provincia,source,poblacion_total,cod_provincia
+albacete,Empresas,26743,02
+alicante,Empresas,138964,03
+almeria,Empresas,42931,04
+alava,Empresas,19147,01
+asturias,Empresas,68688,33
+avila,Empresas,10170,05
+badajoz,Empresas,41490,06
+"balears, illes",Empresas,96638,07
+barcelona,Empresas,468777,08
+bizkaia,Empresas,75628,48
+burgos,Empresas,26031,09
+caceres,Empresas,25389,10
+cadiz,Empresas,60690,11
+cantabria,Empresas,38522,39
+castellon,Empresas,39799,12
+ciudad real,Empresas,30588,13
+cordoba,Empresas,47209,14
+a coruna,Empresas,83313,15
+cuenca,Empresas,13655,16
+gipuzkoa,Empresas,49582,20
+girona,Empresas,62984,17
+granada,Empresas,59115,18
+guadalajara,Empresas,13368,19
+huelva,Empresas,24668,21
+huesca,Empresas,16503,22
+jaen,Empresas,34030,23
+leon,Empresas,31276,24
+lleida,Empresas,33684,25
+lugo,Empresas,24760,27
+madrid,Empresas,538917,28
+malaga,Empresas,123109,29
+murcia,Empresas,95544,30
+navarra,Empresas,44289,31
+ourense,Empresas,23291,32
+palencia,Empresas,10024,34
+"palmas, las",Empresas,75753,35
+pontevedra,Empresas,69437,36
+"rioja, la",Empresas,23197,26
+salamanca,Empresas,22373,37
+santa cruz de tenerife,Empresas,70373,38
+segovia,Empresas,10793,40
+sevilla,Empresas,117385,41
+soria,Empresas,5689,42
+tarragona,Empresas,52921,43
+teruel,Empresas,9345,44
+toledo,Empresas,43289,45
+valencia,Empresas,177717,46
+valladolid,Empresas,33998,47
+zamora,Empresas,11632,49
+zaragoza,Empresas,65645,50
+ceuta,Empresas,3916,51
+melilla,Empresas,4667,52
+albacete,Poblacion,388786,02
+alicante,Poblacion,1838819,03
+almeria,Poblacion,709340,04
+alava,Poblacion,328868,01
+asturias,Poblacion,1028244,33
+avila,Poblacion,158498,05
+badajoz,Poblacion,676376,06
+"balears, illes",Poblacion,1128908,07
+barcelona,Poblacion,5609350,08
+bizkaia,Poblacion,1149628,48
+burgos,Poblacion,357070,09
+caceres,Poblacion,396487,10
+cadiz,Poblacion,1238714,11
+cantabria,Poblacion,580229,39
+castellon,Poblacion,576898,12
+ciudad real,Poblacion,499100,13
+cordoba,Poblacion,785240,14
+a coruna,Poblacion,1119351,15
+cuenca,Poblacion,197222,16
+gipuzkoa,Poblacion,720592,20
+girona,Poblacion,761947,17
+granada,Poblacion,912075,18
+guadalajara,Poblacion,254308,19
+huelva,Poblacion,519932,21
+huesca,Poblacion,219345,22
+jaen,Poblacion,638099,23
+leon,Poblacion,463746,24
+lleida,Poblacion,432866,25
+lugo,Poblacion,331327,27
+madrid,Poblacion,6578079,28
+malaga,Poblacion,1641121,29
+murcia,Poblacion,1478509,30
+navarra,Poblacion,647554,31
+ourense,Poblacion,309293,32
+palencia,Poblacion,162035,34
+"palmas, las",Poblacion,1109175,35
+pontevedra,Poblacion,941772,36
+"rioja, la",Poblacion,315675,26
+salamanca,Poblacion,331473,37
+santa cruz de tenerife,Poblacion,1018510,38
+segovia,Poblacion,153342,40
+sevilla,Poblacion,1939887,41
+soria,Poblacion,88600,42
+tarragona,Poblacion,795902,43
+teruel,Poblacion,134572,44
+toledo,Poblacion,687391,45
+valencia,Poblacion,2547986,46
+valladolid,Poblacion,519851,47
+zamora,Poblacion,174549,49
+zaragoza,Poblacion,954811,50
+ceuta,Poblacion,85144,51
+melilla,Poblacion,86384,52
