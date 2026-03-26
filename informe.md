@@ -192,5 +192,3 @@ Los datos confirman que la crisis de acceso a la vivienda en España tiene un fu
 - Añadir evolución temporal del precio si se consiguen series históricas
 
 ---
-
-*Proyecto realizado con Python, Pandas y Power BI como parte del Master en Data Analytics de ThePower Business School.*
